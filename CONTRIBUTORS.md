@@ -34,8 +34,12 @@ Student contributor names can be added below as the projects are completed.
 | --------------- | --------------- | --------------------------------------- |
 | Lahari Prasanna | G40 AI/ML Batch | Developer Career Intelligence Warehouse |
 | Abhishek Chauhan | G40 AI/ML Batch | Economic Development Analytics     |
+| Guvvadi Ganesh   | G40 AI/ML Batch | Global Poverty Intelligence Platform|
+| Eswar | G40 AI/ML Batch | Wildfire Risk Intelligence Engine |
 | Varsha Chinnanarasannagari | G40 AI/ML Batch | Analyze and Predict Developer Salaries |
 | Sumasri          | G40 AI/ML Batch | Biodiversity-Hotspot-Detection      |
 | Venkata Vivek | G40 AI/ML Batch | Global Earthquake Analytics Platform |
-| Manoj Kumar | G40 AI/ML Batch | Earthquake Trend Analytics 
-|Atit Patel | G40 AIML| Sports performance warehouse
+| Manoj Kumar | G40 AI/ML Batch | Earthquake Trend Analytics |
+| Satish Hanji     | G40 AI/ML Batch  |Species Distribution  Analytics      | 
+| Surendra Reddy   | G40 AI/ML Batch | Most Active Repository Intelligence Engine |
+|Atit Patel | G40 AI/ML Batch | Sports performance warehouse
