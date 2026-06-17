@@ -1,0 +1,17 @@
+name: Keep Streamlit App Alive
+
+on:
+  schedule:
+    # Runs every 10 minutes
+    - cron: "*/10 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping Streamlit Application
+        run: |
+          curl -L --retry 5 --retry-delay 10 https://undeviatingly-vacillant-sharyn.ngrok-free.dev/
